@@ -49,7 +49,7 @@
 /************************************/
 
 :root{
-	--primary-color				: #1b766a;
+	--primary-color				: #efbf04; /*#1b766a;*/
 	--secondary-color			: #F7F3ED;
 	--accent-secondary-color	: #176359; /*ovde menjam boju za footer ako*/
 	--bg-color					: #EFE7DA;
